@@ -1,1 +1,1 @@
-# github-actions-tutorial-3
+# github-actions-tutorial
